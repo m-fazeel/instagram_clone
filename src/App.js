@@ -27,7 +27,6 @@ function App() {
   const [open, setOpen] = useState(false);
   const [openSignIn, setOpenSignIn] = useState(false);
   const handleClose = () => { setOpen(false); }
-  const handleOpen = () => setOpen(true);
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [email, setEmail] = useState('');
