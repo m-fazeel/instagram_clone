@@ -7,6 +7,7 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import { Input } from '@mui/material';
 import ImageUpload from './ImageUpload';
+import { Helmet } from 'react-helmet';
 // import InstagramEmbed from 'react-instagram-embed';
 
 
@@ -167,6 +168,9 @@ function App() {
 
       {/* Header of the page */}
       <div className="app_header">
+        <Helmet>
+          <title>Instagram</title>
+        </Helmet>
         <img
           className='header_image'
           src="https://www.instagram.com/static/images/web/logged_out_wordmark-2x.png/d2529dbef8ed.png"
