@@ -1,4 +1,4 @@
-# Instagram Clone
+# PixShare
 
 This is a clone of Instagram built with HTML, CSS, JavaScript, ReactJS, and Firebase. The application allows users to create accounts, login, comment, and upload images.
 
