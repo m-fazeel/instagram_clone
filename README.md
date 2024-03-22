@@ -1,10 +1,10 @@
 # PixShare
 
-This is a clone of Instagram built with HTML, CSS, JavaScript, ReactJS, and Firebase. The application allows users to create accounts, login, comment, and upload images.
+This is a PixShare app built with HTML, CSS, JavaScript, ReactJS, and Firebase. The application allows users to create accounts, login, comment, and upload images.
 
 ## Table of Contents
 
-- [Instagram Clone](#instagram-clone)
+- [PixShare](#pix-share)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
@@ -48,7 +48,7 @@ This is a clone of Instagram built with HTML, CSS, JavaScript, ReactJS, and Fire
 Ensure you're in the right directory:
 
 ```bash
-cd instagram-clone
+cd pix_share
 ```
 
 Install all the project's dependencies:
